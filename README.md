@@ -25,14 +25,6 @@ I am a Computer Science graduate 🎓 from [Ecole Nationale Supérieure d'Inform
 <img src="https://github.com/RemilYoucef/RemilYoucef/blob/main/dev.gif" align="center" style="width: 100%" />
 </div>
 
-## 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Youcef's Github Stats](https://github-readme-stats.vercel.app/api?username=RemilYoucef&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemilYoucef&hide=TeX&layout=compact)
 
-</a>
-
-<br>
 
   

@@ -17,7 +17,6 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRemilYoucef&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 ![Followers](https://img.shields.io/github/followers/RemilYoucef?color=green&logo=github&label=FOLLOWERS)
 
-
 <div align="center">
 <img src="https://github.com/RemilYoucef/RemilYoucef/blob/main/dev.gif" align="center" style="width: 100%" />
 </div>

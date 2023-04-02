@@ -2,7 +2,7 @@
 <img src="https://github.com/RemilYoucef/RemilYoucef/blob/main/hello_world_remil.gif" align="center" style="width: 100%" />
 </div>
 
-## Hey 👋, I'm [Youcef Remil!](https://github.com/RemilYoucef/)
+## Hey 👋, I'm [Youcef REMIL](https://github.com/RemilYoucef/), a Data Science Ph.D candidate [@INSA-Lyon](https://www.insa-lyon.fr/) | Research Data Scientist @[Infologic](https://www.infologic-copilote.fr/)  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yremil/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iamyoucefremil.github.io/)

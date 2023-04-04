@@ -25,11 +25,16 @@ I am a Computer Science graduate 🎓 from [Ecole Nationale Supérieure d'Inform
 <img src="https://github.com/RemilYoucef/RemilYoucef/blob/main/dev.gif" align="center" style="width: 100%" />
 </div>
 
+## Tools and Tech 🛠
+
+## Github Stats ⚡
+
 <div align="center" >
 <a  href="https://github.com/RemilYoucef">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RemilYoucef&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RemilYoucef&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RemilYoucef&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RemilYoucef&theme=aura)
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RemilYoucef&hide_border=true" />
 
 </a>
 

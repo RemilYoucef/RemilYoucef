@@ -25,7 +25,7 @@ I am a Computer Science graduate 🎓 from [Ecole Nationale Supérieure d'Inform
 <img src="https://github.com/RemilYoucef/RemilYoucef/blob/main/dev.gif" align="center" style="width: 100%" />
 </div>
 
-## Tools and Tech 🛠
+## Tools and Techs 🛠
 
 ## Github Stats ⚡
 

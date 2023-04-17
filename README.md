@@ -5,7 +5,7 @@
 ## Greetings 👋, I'm [Youcef Remil](https://github.com/RemilYoucef/), a Data Science Ph.D candidate [@INSA-Lyon](https://www.insa-lyon.fr/) | Research Scientist [@Infologic](https://www.infologic-copilote.fr/)  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yremil/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iamyoucefremil.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://remilyoucef.github.io/)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-27ae60?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/fy_remil)
 [![Google Scholer Badge](https://img.shields.io/badge/%20-Google%20Scholar-7f8c8d?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=c6fxfX7WNHEC&hl=fr&oi=ao)
 [![Discord Badge](https://img.shields.io/badge/Discord-8e44ad?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/852306321431592960)
